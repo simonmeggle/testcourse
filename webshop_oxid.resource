@@ -1,5 +1,7 @@
 *** Variables ***
 ${URL}                      https://oxid.robotmk.org
+${USERNAME}                 mail@robotmk.org
+${PASSWORD}                 crypt:bD22YdO6Om/M63SHz3clvZ4UKpEonuvUh0nO+vHymmFGWjzPveg+dSTFGlVRmSk7ZQQj7anvpBA=
 
 # Login Selectors
 ${HOME_BARGAIN_HEADLINE}    div#boxwrapper_bargainItems h2
