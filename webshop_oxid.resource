@@ -1,4 +1,5 @@
 *** Variables ***
+${URL}                      https://oxid.robotmk.org
 
 # Login Selectors
 ${HOME_BARGAIN_HEADLINE}    div#boxwrapper_bargainItems h2
